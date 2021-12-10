@@ -272,7 +272,7 @@ Veja os [slides sobre como interagir com checkbox via JavaScript][slides-interac
 
 ```js
 const el = document....;
-console.log(el.checked);  // true, se estiver marcado
+console.log(el.checked);  // true, se estiver marcado //hm....
 ```
 
 A mesma lógica vale para saber se um certo botão de rádio (ie, `<input type="radio">`) está selecionado.
